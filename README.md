@@ -27,4 +27,4 @@ Kandacong<br>
 OUTPUT:<br>
 Halo Kandacong<br>
 
-Please SUBSCRIBE https://www.youtube.com/c/FOSALGO for more Information
+Please <b>SUBSCRIBE</b> https://www.youtube.com/c/FOSALGO for more Information
