@@ -8,7 +8,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String nama = sc.nextLine();
         
-        System.out.println("Halo "+nama);
+        System.out.prin("Halo "+nama);
     }
     
 }
